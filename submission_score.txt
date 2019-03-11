@@ -1,0 +1,7 @@
+Valid Solution. a_example.out = 10
+Valid Solution. b_should_be_easy.out = 174452
+Valid Solution. c_no_hurry.out = 8192374
+Valid Solution. d_metropolis.out = 5345611
+Valid Solution. e_high_bonus.out = 15402945
+------------
+Total Score = 29115392
